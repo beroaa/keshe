@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Keshee" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Keshee" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#4B63EA</item>
         <item name="colorPrimaryVariant">#515C63</item>
